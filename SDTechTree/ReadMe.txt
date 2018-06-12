@@ -10,9 +10,12 @@ Version History:
 0.1: configs pushed to GitHub
 
 
-To do:
+To-do:
 -analyze engine stats and rework their balance
 -give the spelling and grammar a thorough check
 -add passive generator to the LV-N optional config, make it act more like a bimodal nuclear thermal rocket
 -analyze and plot new aerospike ISP curve for upgrade modules
 -impliment upgrade modules for the supersonic jet engines
+
+Distant To-do:
+-create custom node icons to avoid the number of repeats in the tree
